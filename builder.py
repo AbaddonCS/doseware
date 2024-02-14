@@ -13,7 +13,7 @@ def main():
 
 
     os.system("cls")
-    print(f"{Style.NORMAL}{Fore.RESET}abaddon{Style.DIM}{Fore.MAGENTA}ware{Fore.RESET}{Style.NORMAL}")
+    print(f"{Style.NORMAL}{Fore.RESET}dose{Style.DIM}{Fore.MAGENTA}ware{Fore.RESET}{Style.NORMAL}")
     print(f"\n{Style.NORMAL}{Fore.RESET}Enter A Link To Spam\n")
     msg = input(f"> {Style.DIM}{Fore.MAGENTA}")
 
@@ -24,7 +24,7 @@ def main():
     os.system("start cmd")"""
 
     os.system("cls")
-    print(f"{Style.NORMAL}{Fore.RESET}abaddon{Style.DIM}{Fore.MAGENTA}ware{Fore.RESET}{Style.NORMAL}")
+    print(f"{Style.NORMAL}{Fore.RESET}dose{Style.DIM}{Fore.MAGENTA}ware{Fore.RESET}{Style.NORMAL}")
     print(f"\n{Style.NORMAL}{Fore.RESET}Set A Name A For The Stub\n")
     filename = input(f"> {Style.DIM}{Fore.MAGENTA}")
 
